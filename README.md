@@ -1,11 +1,9 @@
 # delta-demo
 This is demo for github.
 
-#Teachers
-
+# Teachers
 Hello
 
-#Students
-
+# Students
 Good
 
